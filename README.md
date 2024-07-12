@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Birathiban
-- 👀 I’m interested in WEB
+- 👀 I’m interested in AI & ML
 
 <!---
 bthiban/bthiban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
